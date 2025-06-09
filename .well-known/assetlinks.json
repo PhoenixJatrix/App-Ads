@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.nullinnix.touchgrass",
+      "sha256_cert_fingerprints": ["0C:81:A7:36:97:CB:5A:21:A7:D2:A0:5C:70:8A:8A:94:1C:CB:FC:72:B5:87:6C:77:E5:6C:D6:55:F6:49:3B:BD"]
+    }
+  }
+]
